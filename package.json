@@ -1,0 +1,15 @@
+{
+  "name": "environment-git",
+  "version": "1.0.0",
+  "description": "тестовая работа на практике 20.10",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Максим Латников",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
